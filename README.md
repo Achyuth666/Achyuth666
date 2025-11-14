@@ -71,7 +71,6 @@
 Neural network predicting azeotropic conditions for binary VLE  
 **Tech:** Deep Learning, TensorFlow  
 **Accuracy:** 95%  
-👉 *(GitHub link coming soon)*  
 
 ---
 
@@ -79,20 +78,12 @@ Neural network predicting azeotropic conditions for binary VLE
 AI-based fake video detector with Django web app  
 **Tech:** ResNeXt + LSTM  
 **Accuracy:** 90.45%  
-👉 *(GitHub link coming soon)*  
 
 ---
 
 ### 🔹 **3. Emotion-Based Music Recommendation**  
 Detects facial emotion → recommends music  
 **Accuracy:** 87%  
-👉 *(GitHub link coming soon)*  
-
----
-
-### 🔹 **4. Aquaponics ML Automation System**  
-Predicts fish feed & optimizes pH with sensors + ML  
-👉 *(GitHub link coming soon)*  
 
 ---
 
@@ -109,6 +100,45 @@ Predicts fish feed & optimizes pH with sensors + ML
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Achyuth666&theme=transparent" />
 </p>
+
+---
+
+---
+
+## 🏷️ Skill Badges
+
+<p align="left">
+
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/AI%2FML-Expertise-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  
+  <!-- Generative AI -->
+  <img src="https://img.shields.io/badge/Generative%20AI-Developer-orange?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- Agentic AI -->
+  <img src="https://img.shields.io/badge/Agentic%20AI-Building-brightgreen?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+  <!-- Mathematics -->
+  <img src="https://img.shields.io/badge/Mathematics-Lover-critical?style=for-the-badge&logo=latex&logoColor=white"/>
+
+  <!-- Full-Stack Development -->
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models-success?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <!-- Public Speaking -->
+  <img src="https://img.shields.io/badge/Public%20Speaking-MC%2FAnchor-purple?style=for-the-badge&logo=audacity&logoColor=white"/>
+
+  <!-- Open Source -->
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-9cf?style=for-the-badge&logo=github&logoColor=black"/>
+
+</p>
+
+---
 
 ---
 
