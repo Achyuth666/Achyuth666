@@ -101,44 +101,6 @@ Detects facial emotion → recommends music
 <img src="https://streak-stats.demolab.com?user=Achyuth666&theme=transparent" />
 </p>
 
----
-
----
-
-## 🏷️ Skill Badges
-
-<p align="left">
-
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/AI%2FML-Expertise-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  
-  <!-- Generative AI -->
-  <img src="https://img.shields.io/badge/Generative%20AI-Developer-orange?style=for-the-badge&logo=openai&logoColor=white"/>
-
-  <!-- Agentic AI -->
-  <img src="https://img.shields.io/badge/Agentic%20AI-Building-brightgreen?style=for-the-badge&logo=robotframework&logoColor=white"/>
-
-  <!-- Mathematics -->
-  <img src="https://img.shields.io/badge/Mathematics-Lover-critical?style=for-the-badge&logo=latex&logoColor=white"/>
-
-  <!-- Full-Stack Development -->
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-Models-success?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <!-- Deep Learning -->
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-  <!-- Public Speaking -->
-  <img src="https://img.shields.io/badge/Public%20Speaking-MC%2FAnchor-purple?style=for-the-badge&logo=audacity&logoColor=white"/>
-
-  <!-- Open Source -->
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-9cf?style=for-the-badge&logo=github&logoColor=black"/>
-
-</p>
-
----
 
 ---
 
