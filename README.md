@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">🚀 AI/ML Engineer | MLOps Engineer | Cloud-Native ML Builder</h1>
+<h1 align="center">🚀 AI/ML Enthusiast | GenAI & MLOps Engineer | Cloud-Native ML Builder/Deployer</h1>
 
 ---
 
