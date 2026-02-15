@@ -67,23 +67,30 @@
 
 ## 📌 Featured Projects  
 
-### 🔹 **1. ANN Surrogate Model for Azeotrope Detection**  
+### 🔹 **1. Vehicle Insurance Prediction - A MLOps Project**  
+A complete MLOps implementation showcasing how machine learning systems are built, validated, versioned, containerized, and deployed in real-world environments.
+**Tech Stack**
+| Category           | Tools & Services                  |
+| ------------------ | --------------------------------- |
+| Database           | MongoDB Atlas                     |
+| Programming        | Python 3.10                       |
+| Cloud Platform     | Amazon Web Services               |
+| Model Registry     | Amazon S3                         |
+| Compute            | Amazon EC2                        |
+| Containerization   | Docker                            |
+| CI/CD              | GitHub Actions                    |
+| Container Registry | Amazon Elastic Container Registry |
+| Version Control    | GitHub                            |
+| API Framework      | Flask                             |
+
+**End-to-End Production-Ready ML Pipeline | Cloud Integrated | CI/CD Automated** 
+
+--- 
+
+### 🔹 **2. ANN Surrogate Model for Azeotrope Detection**  
 Neural network predicting azeotropic conditions for binary VLE  
 **Tech:** Deep Learning, TensorFlow  
 **Accuracy:** 95%  
-
----
-
-### 🔹 **2. DeepFake Detection System**  
-AI-based fake video detector with Django web app  
-**Tech:** ResNeXt + LSTM  
-**Accuracy:** 90.45%  
-
----
-
-### 🔹 **3. Emotion-Based Music Recommendation**  
-Detects facial emotion → recommends music  
-**Accuracy:** 87%  
 
 ---
 
