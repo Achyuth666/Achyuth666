@@ -71,6 +71,7 @@
 <img src="https://skillicons.dev/icons?i=docker" height="45"/>
 <img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
 <img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=mlflow" height="45"/>
 </p>
 
 ---
@@ -145,15 +146,6 @@ Python • FastAPI • AWS (S3, EC2, ECR) • Docker • GitHub Actions • Mong
 - ML Platform Engineering  
 - Distributed ML Systems  
 - Optimization & Applied Mathematics  
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Achyuth666&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuth666&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
 
 ---
 
